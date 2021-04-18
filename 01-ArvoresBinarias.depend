@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1618320641 source:c:\users\gaabr\onedrive\햞ea de trabalho\workspacec\01-arvoresbinarias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvores-binarias.h"
+
+1618317707 c:\users\gaabr\onedrive\햞ea de trabalho\workspacec\01-arvoresbinarias\arvores-binarias.h
+
+1618256939 source:c:\users\gaabr\onedrive\햞ea de trabalho\workspacec\01-arvoresbinarias\arvores-binarias-impl.c
+	<stdio.h>
+	"arvores-binarias.h"
+
+1618320433 source:c:\users\gaabr\onedrive\햞ea de trabalho\faculdade\04.orderecdados\workspacec\01-arvoresbinarias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvores-binarias.h"
+
+1618317707 c:\users\gaabr\onedrive\햞ea de trabalho\faculdade\04.orderecdados\workspacec\01-arvoresbinarias\arvores-binarias.h
+
+1618320459 source:c:\users\gaabr\onedrive\햞ea de trabalho\faculdade\04.orderecdados\workspacec\01-arvoresbinarias\arvores-binarias-impl.c
+	<stdio.h>
+	"arvores-binarias.h"
+

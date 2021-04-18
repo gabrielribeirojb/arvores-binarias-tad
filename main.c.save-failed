@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "arvores-binarias.h"
+
+int main()
+{
+    PONT r = inicializa();
+
+    PONT *apontaArv = &r;
+    printf("The value of arvore is: %p\n", (PONT *) apontaArv);
+
+    PONT no = criaNovoNo(23);
+
+    PONT p = contem(12,r);
+
+    PONT exemplo = adiciona(r,no);
+    PONT *apontaExemplo = &exemplo;
+    printf("EXEMPLO: %p\n", (PONT *) apontaExemplo);
+
+    printf("%d\n", numeroNos(r));
+    return 0;
+}
